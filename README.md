@@ -2,7 +2,7 @@
 
 ## Create anaconda environment with all default packages
 ```bash
-$ conda create env -n env_full anaconda python=3.9
+$ conda create -n env_full anaconda python=3.9
 
 ```
 
